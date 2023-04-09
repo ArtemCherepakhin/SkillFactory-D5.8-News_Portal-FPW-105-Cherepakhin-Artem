@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="БОТ.filters" />
+          <option value="NewsPaper.news.models.news" />
+          <option value="django.db.models.fields.related.OneToOneField.comment_set" />
+          <option value="NewsPaper.news.models.Author.post_set" />
+          <option value="NewsPaper.news.models.Post.ratind" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
